@@ -10,12 +10,11 @@ System.Console.WriteLine("Enter two numbers");
 int num1 = Convert.ToInt32(Console.ReadLine());
 int num2 = Convert.ToInt32(Console.ReadLine());
 
-
-if (num2 > num1)
+if (num2 > num1)  
 {
     System.Console.WriteLine($"максимальное число {num2}, минимальное число {num1} ");
 }
-if (num1 > num2)
+if (num1 > num2)  
 {  
     System.Console.WriteLine($"максимальное число {num1}, минимальное число {num2} ");;
 }
