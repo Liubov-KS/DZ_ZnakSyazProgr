@@ -1,0 +1,15 @@
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.csproj.AssemblyReference.cache
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfoInputs.cache
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.AssemblyInfo.cs
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.csproj.CoreCompileInputs.cache
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\bin\Debug\net6.0\Task_01.exe
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\bin\Debug\net6.0\Task_01.deps.json
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\bin\Debug\net6.0\Task_01.runtimeconfig.json
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\bin\Debug\net6.0\Task_01.dll
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\bin\Debug\net6.0\Task_01.pdb
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.dll
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\refint\Task_01.dll
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.pdb
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\Task_01.genruntimeconfig.cache
+C:\Users\lknya\Desktop\GeekBrains\Тема3_знакомство_языками_программирования\DZ_01\Task_01\obj\Debug\net6.0\ref\Task_01.dll
