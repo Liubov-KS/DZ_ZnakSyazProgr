@@ -5,7 +5,7 @@
 Console.WriteLine("Введите число от 1 до 7");
 int daynum = Convert.ToInt32(Console.ReadLine());
 
-if(daynum == 6 || daynum == 7) 
+if(daynum == 6 || daynum == 7)
   {
   Console.WriteLine($"да -> это выходной");
   }
