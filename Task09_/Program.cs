@@ -14,8 +14,19 @@ int z2 = SetNumber("z2");
 
 double result = DistanceBetween3DPoints(x1, x2, y1, y2, z1, z2);
 
-System.Console.WriteLine($"rsult {result}");
+System.Console.WriteLine($"result {result}");
 
+static int SetNumber(string numberName)
+{
+    System.Console.WriteLine($"Enter number {numberName}: ");
+    
+    int num = Convert.ToInt32(Console.ReadLine());
+    return num; 
+}
+static double DistanceBetween3DPoints(int x1,int x2,int y1,int y2,int z1,int z2)
+{
+    return Math.Sqrt(Math.Pow((x2 -x1),2) +Math.Pow((y2 -y1),2) + Math.Pow((z2 -z1),2));
+}
 //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Console.WriteLine("");
