@@ -5,6 +5,19 @@ A (3,6,8); B (2,1,-7), -> 15.84
 A (7,-5, 0); B (1,-1,9) -> 11.53  
 */
 
+int x1 = SetNumber("x1");
+int y1 = SetNumber("y1");
+int z1 = SetNumber("z1");
+int x2 = SetNumber("x2");
+int y2 = SetNumber("y2");
+int z2 = SetNumber("z2");
+
+double result = DistanceBetween3DPoints(x1, x2, y1, y2, z1, z2);
+
+System.Console.WriteLine($"rsult {result}");
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Console.WriteLine("");
 
 int x1 = Coordinate("x", "A");
